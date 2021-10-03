@@ -3,4 +3,4 @@ hello dayang! hello git! 333
 hello dayang! hello git!
 hello dayang! hello git!
 hello dayang! hello git! master test
-hello dayang! hello git!
+hello dayang! hello git! hot-fix test
